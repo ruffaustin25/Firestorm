@@ -1,0 +1,17 @@
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.exe
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.deps.json
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.runtimeconfig.json
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.runtimeconfig.dev.json
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.dll
+C:\Projects\Firestorm\Firestorm\bin\Debug\netcoreapp3.1\Firestorm.pdb
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.csprojAssemblyReference.cache
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm_MarkupCompile.cache
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm_MarkupCompile.lref
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.g.resources
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.AssemblyInfoInputs.cache
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.AssemblyInfo.cs
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.dll
+C:\Projects\Firestorm\Firestorm\obj\Debug\netcoreapp3.1\Firestorm.pdb
